@@ -303,7 +303,7 @@ bullet:
   opensuse: [libbullet]
   slackware:
     slackpkg:
-      packages: [bullet]
+      packages: [flann, bullet]
   ubuntu:
     precise: [libbullet-dev]
     quantal: [libbullet-dev]
