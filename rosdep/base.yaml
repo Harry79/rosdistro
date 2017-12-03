@@ -301,7 +301,7 @@ bullet:
   gentoo: [sci-physics/bullet]
   macports: [bullet]
   opensuse: [libbullet]
-  slackware: [flann, bullet]
+  slackware: [bullet]
   ubuntu:
     precise: [libbullet-dev]
     quantal: [libbullet-dev]
