@@ -3602,9 +3602,7 @@ muparser:
   fedora: [muParser-devel]
   gentoo: [dev-cpp/muParser]
   ubuntu: [libmuparser-dev]
-  slackware:
-      slackpkg:
-        packages: [muParser]
+  slackware: [muParser]
 nasm:
   arch: [nasm]
   debian: [nasm]
